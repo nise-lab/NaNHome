@@ -1770,6 +1770,9 @@
 			text-align: center;
 			border: 0;
 		}
+		ul.icons div.sns_btn_are clearfix{
+			font-size: 5px
+		}
 
 	ol.default {
 		list-style: decimal;
